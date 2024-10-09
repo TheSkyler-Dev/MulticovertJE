@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Locale;
-//MulticonvertJ v0.1.0-alpha (c) Innokenti "Skyler" Nikiforov
+//MulticonvertJE v0.2.0-alpha (c) Innokenti "Skyler" Nikiforov
 class MulticonvertJ {
     public static void main(String[] args){
         while (true) { 
